@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"METACRAFTERS/CHALLENGE_01.sol": "CrVariables"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"METACRAFTERS/CHALLENGE_01.sol": {
+			"keccak256": "0x32dd155d61817d030f6049f130ce3b98c72e4afc1eeb4a799eff36f3ddc939e6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1e675e86833e4a5be53283f2136d5523db826f3f0d6d71e8f541cc988251e01d",
+				"dweb:/ipfs/QmdC1ELz7v34Mm2VpEfBXm7RF15gJzQojy4F2Dmoq2vo4j"
+			]
+		}
+	},
+	"version": 1
+}

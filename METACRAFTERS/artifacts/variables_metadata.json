@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"METACRAFTERS/CHALLENGE_01.sol": "variables"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"METACRAFTERS/CHALLENGE_01.sol": {
+			"keccak256": "0x323a2ef8e152125c250c7935f65858617f81a3ed67f623594907ef67c5934731",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://33c6a59330c2cb13ac6870b61da52516e1f70e526e7ecd2b84a4bddaebcbeced",
+				"dweb:/ipfs/QmdGb8KyqrKUjMkpAyurhDuGEFSWtBmYkDGafo1WA3fTEk"
+			]
+		}
+	},
+	"version": 1
+}
